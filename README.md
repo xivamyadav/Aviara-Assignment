@@ -89,5 +89,4 @@ pytest tests/ -v
 
 ## n8n Setup
 
-- Import `n8n/workflow.json` into your local n8n.
-- Enable the workflow and you're good to go.
+- Import `n8n/workflow.json` into n8n.
