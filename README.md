@@ -87,9 +87,7 @@ pytest tests/ -v
 
 ---
 
-## n8n Import
+## n8n Setup
 
-To load the workflow:
-- Open your local n8n instance and click `Import from File` inside the workflows tab.
-- Upload the `n8n/workflow.json` blueprint.
-- Change the `http://localhost:8000` URLs in the HTTP nodes if you are running FastAPI on a different host.
+- Import `n8n/workflow.json` into your local n8n.
+- Enable the workflow and you're good to go.
