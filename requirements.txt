@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+sqlalchemy
+aiosqlite
+google-genai
+httpx
+python-dotenv
+redis
+pytest
+pytest-asyncio
